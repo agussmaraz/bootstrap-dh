@@ -1,0 +1,65 @@
+*{
+    font-family: 'Lato', sans-serif;
+    color:white;
+    
+}
+._navbarazul { 
+    background-color: #2C3E50;
+    width: 100%;
+}
+/* .menu {
+    background-color: #18BC9C;
+} */
+.sector, button.sector {
+    background-color: #18BC9C;
+}
+
+h1, h2, h6{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    
+}
+
+._estrella { 
+    font-size: 30px;
+}
+
+
+[name="remove"] {
+    width: 70px;
+    background-color: white;
+    height: 3px;
+    
+}
+.estrellita {
+    color: black;
+    font-size: 30px;
+}
+.linea {
+    width: 70px;
+    background-color: black;
+    height: 3px;
+    
+}
+.pie {
+    background-color: #2C3E50;
+}
+
+._iconos {
+    font-size: 25px;
+}
+
+.especial {
+    color: #18BC9C;
+}
+
+.row {
+    margin: 0 !important;
+}
